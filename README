@@ -16,3 +16,6 @@ Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
 
+First off coding had no errors when put into appcellerator. It appeared as if all punctuation was in place. When application is run on a we browser emulator it did not pop up. It read an http error and after strenuous reading of your code I unfortunately could not come up with an answer on how to solve it. Generally it means a coding error but according to appcelerator there is nothing wrong with your code so I am baffled. When ran on another emulator it appeared to come up fine. the colours looked good making the text contrast well and easy to read. Again I thought that the second page of your application, the mini portfolio, was a little bland so I would consider adding another image or more colour or decals to make it pop a little more. it is a minor personal preference rather than a requirement. The application served it purpose as a business card so all else is just small bonus points. All in all well done
+
+Ps: I enjoyed the use of a background image, really nice touch.
